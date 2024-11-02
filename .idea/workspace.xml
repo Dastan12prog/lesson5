@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e1206ec-70b6-4432-a7bc-6100259b1a31" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson21/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson21/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson21/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson21/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson21/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccon13/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccon13/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccon13/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccon13/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccon13/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 8/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson 8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.idea/fileColors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson11/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson14/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson14/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson14/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson14/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson14/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson15/src/Stutend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson16/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson17/src/Notebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/src/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson19/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson19/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson19/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson19/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/src/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson20/src/transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lesson9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lwsson12/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lwsson12/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lwsson12/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lwsson12/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lwsson12/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lesson19/lesson19.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../lesson19/lesson19.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2oIhZwogJjnlIHR0aCWt4W8rj9p" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/Lenovo/IdeaProjects/lesson5/src/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1206ec-70b6-4432-a7bc-6100259b1a31" name="Changes" comment="" />
+      <created>1730563057481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730563057481</updated>
+    </task>
+    <servers />
+  </component>
+</project>
